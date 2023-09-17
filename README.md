@@ -12,7 +12,7 @@ Here are some screeenshots of the application showcasing the Booking functionali
 
 
 
-![LL_HBar](https://github.com/Ranz00/Little-dLemon/assets/114017873/e66dd4f8-daf5-4a3e-a53d-a9cf1fefdbf3)
+![Untitled](https://github.com/Ranz00/Little-dLemon/assets/114017873/019e69cb-fcca-4440-a486-1bad4e44f06e)
 
 
 
